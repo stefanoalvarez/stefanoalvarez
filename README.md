@@ -1,7 +1,7 @@
   ## Hello there 👋 My name is Stefano Glenn
   
   
-  ## About Me 👩‍💼
+  ## About Me 👨🏽‍🦱
   
 🔹 I am Stefano, I have a great hobby about computer technologies and code language.
 
